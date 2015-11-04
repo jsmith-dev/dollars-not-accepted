@@ -1,3 +1,16 @@
+<p>These badges may be used freely on any website or physical item without charge, permission or reference to the author for any application including but not limited to commercial use under a Creative Commons 0 (Public Domain) license. This artwork first appeared on <a href="http://www.bitcoinnotbombs.com/">Bitcoins Not Bombs</a>, and has been recreated here, and publish under an open license.</p>
+
+<h3>
+<a id="badges" class="anchor" href="#badges" aria-hidden="true"><span class="octicon octicon-link"></span></a>Badges</h3>
+
+<p>We’ve crafted some handsome badges for you to use. Go ahead and right-click 'Save image' to use them at will.</p>
+
+<h3>
+  <p><img src="../dollars-not-accepted/assets/dollar-not-accepted-color-transparent.png"></p>
+  <br>
+  <p><img src="../dollars-not-accepted/assets/dollar-not-accepted-grey-transparent.png"></p>
+</h3>
+
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
