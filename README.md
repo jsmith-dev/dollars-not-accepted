@@ -6,9 +6,9 @@
 <p>We’ve crafted some handsome badges for you to use. Go ahead and right-click 'Save image' to use them at will.</p>
 
 <h3>
-  <p><img src="http://julian-smith-code.github.io/dollars-not-accepted/assets/dollar-not-accepted-color-transparent.png"></p>
+  <p><img src="https://raw.githubusercontent.com/jsmith-dev/dollars-not-accepted/master/dollar-not-accepted-color-transparent.png"></p>
   <br>
-  <p><img src="http://julian-smith-code.github.io/dollars-not-accepted/assets/dollar-not-accepted-grey-transparent.png"></p>
+  <p><img src="https://raw.githubusercontent.com/jsmith-dev/dollars-not-accepted/master/dollar-not-accepted-grey-transparent.png"></p>
 </h3>
 
 <p xmlns:dct="http://purl.org/dc/terms/">
